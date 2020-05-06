@@ -1,0 +1,78 @@
+body{
+  font-family: courier;
+  margin: none;
+  padding: none;
+  text-align: center;
+}
+p{
+  font-size: 1.3em;
+}
+.cookies{
+  height: 80px;
+  width: 100%;
+  background-color: #ffef00;
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 30px;
+}
+.refuse-button{
+  border-radius: 8px;
+  font-size: 1.5em;
+  height: 40px;
+  width:150px;
+  background-color: grey;
+  border-color: grey;
+  margin:5px;
+}
+.accept-button{
+  border-radius: 8px;
+  font-size: 1.5em;
+  height: 40px;
+  width:150px;
+  background-color: #39b739;
+  border-color: green;
+  margin:5px;
+}
+.over-button{
+  border-radius: 8px;
+  font-size: 1.2em;
+  height: 40px;
+  width:150px;
+  background-color: #f89b0a;
+  border-color: grey;
+  margin:5px;
+}
+.title-button{
+  border-radius: 8px;
+  font-size: 0.9em;
+  font-weight: bold;
+  height: 40px;
+  width:150px;
+  background-color: #f66;
+  border-color: grey;
+  margin:5px;
+}
+.page-button{
+  border-radius: 8px;
+  font-size: 0.9em;
+  font-weight: bold;
+  height: 40px;
+  width:150px;
+  background-color: #4dd7a3;
+  border-color: green;
+  margin:5px;
+}
+.accept2-button{
+  border-radius: 8px;
+  font-size: 1em;
+  font-weight: bold;
+  height: 40px;
+  width:150px;
+  background-color: #75ca3b;
+  border-color: green;
+  margin:5px;
+}
